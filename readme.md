@@ -3,8 +3,8 @@
 Bash minimalist implementation of a boostrap script for an [lxc](https://linuxcontainers.org/) based 'private cloud' of resources consisting of an lxc container hypervisor accessible via ssh from only a bastion ssh host, with metadata API and service mesh capabilities provided by [Consul](consul.io)
 
 # (in)Security Notice:
-# this script binds consul to public IPS and should not be used in production unless you know what you are doing.
 
+this script binds consul to public IPS and should not be used in production unless you know what you are doing.
 
 # Highlights
 
